@@ -1,0 +1,42 @@
+{
+    "all_class_images": 21119,
+    "all_class_name": "../dataset/data_image",
+    "class_detail": [
+        {
+            "class_eval_images": 706,
+            "class_label": 0,
+            "class_name": "Apple___Apple_scab",
+            "class_trainer_images": 2822
+        },
+        {
+            "class_eval_images": 696,
+            "class_label": 1,
+            "class_name": "Apple___Black_rot",
+            "class_trainer_images": 2783
+        },
+        {
+            "class_eval_images": 706,
+            "class_label": 2,
+            "class_name": "Corn_(maize)___Common_rust_",
+            "class_trainer_images": 2822
+        },
+        {
+            "class_eval_images": 706,
+            "class_label": 3,
+            "class_name": "Corn_(maize)___Northern_Leaf_Blight",
+            "class_trainer_images": 2822
+        },
+        {
+            "class_eval_images": 706,
+            "class_label": 4,
+            "class_name": "Tomato___Early_blight",
+            "class_trainer_images": 2822
+        },
+        {
+            "class_eval_images": 706,
+            "class_label": 5,
+            "class_name": "Tomato___Leaf_Mold",
+            "class_trainer_images": 2822
+        }
+    ]
+}
